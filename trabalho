@@ -1,0 +1,49 @@
+# Atividade 2 — Continuação com foco em CSS
+
+### **Task 1 — Criar o CSS global (style.css)** - OK
+
+Crie um arquivo style.css e conecte esse arquivo em todas as páginas do projeto.
+
+Nesse CSS global, defina estilos compartilhados, como:
+
+- cor de fundo geral - OK
+- fonte do site - OK
+- aparência do título principal - OK
+- estilo do menu de navegação - OK
+- espaçamentos padrão - OK
+- aparência base das tabelas - OK
+- aparência padrão dos links - OK
+
+### **Task 2 — Estilizar a página inicial (index.html)**
+
+Depois do CSS global, faça ajustes específicos na página inicial:
+
+- destacar melhor o título
+- melhorar a aparência da introdução
+- estilizar as listas
+- melhorar visualmente a área do áudio
+- trazer imagem (poster/cartaz) para os filmes
+
+---
+
+### **Task 3 — Estilizar as páginas de tabela (bilheterias.html e netflix.html)**
+
+Aplicar melhorias como:
+
+- bordas e espaçamento da tabela
+- cor no cabeçalho
+- melhor organização do conteúdo
+- efeito visual nos links
+- alinhamento das informações
+
+---
+
+### **Task 4 — Estilizar a página de detalhes (avatar.html)**
+
+Aplicar melhorias como:
+
+- destaque para o resumo
+- melhor tamanho para o vídeo
+- centralização dos elementos
+- espaçamento entre seções
+- aparência mais agradável da navegação
